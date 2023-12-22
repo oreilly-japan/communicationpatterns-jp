@@ -1,0 +1,202 @@
+---
+---
+
+@import "{{ site.theme }}";
+.page-header {
+    background-image: linear-gradient(to right, #8F6374 0%, 33.95061728395061%, #D3752C 50.729517396184065%, 74.80359147025814%, #A4AA3F 100%);
+    padding: 1rem 6rem;
+}
+table, tr, td, th {
+    border: none;
+}
+.after-contact{
+  margin-top: 2.5em;
+  clear: left;
+}
+.contact div {
+  float: left;
+  margin: 5px;
+  display: table;
+}
+.contact div span img {
+  height: 1.3em;
+  vertical-align: middle;
+  display: table-cell;
+  margin-right: 5px;
+}
+.contact div span {
+    vertical-align: middle;
+    display: table-cell;
+}
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+  color: #8f6374;
+}
+
+/* for quote carousel */
+$animation-timing: 170s;
+$carousel-items: 17;
+$animation-delay-fraction: $animation-timing / $carousel-items;
+$animation-steps-fraction: 100 / $carousel-items;
+$slide-change-timing: 1; // percentage of total animation cycle
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
+  height: 100vh;
+}
+
+.wrapper {
+  background: linear-gradient(to right, #8F6374 0%, 33.95061728395061%, #D3752C 50.729517396184065%, 74.80359147025814%, #A4AA3F 100%);
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  min-height: 450px;
+}
+
+.carousel {
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.carousel__item {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  width: 100%;
+  padding: 0 12px;
+  opacity: 0;
+  filter: drop-shadow(0 2px 2px #555);
+  will-change: transform, opacity;
+  animation: carousel-animate-vertical $animation-timing linear infinite;
+}
+
+@for $i from 1 through ($carousel-items - 1) { 
+  .carousel__item:nth-child(#{$i}) {
+    animation-delay: calc(#{$animation-delay-fraction} * #{$i - 2});
+  }
+}
+
+.carousel__item:last-child {
+  animation-delay: calc(-#{$animation-delay-fraction} * 2);
+}
+
+.carousel__item-head {
+  border-radius: 50%;
+  background-color: #d7f7fc;
+  width: 90px;
+  height: 90px;
+  padding: 14px;
+  position: relative;
+  margin-right: -45px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+}
+
+.carousel__item-body {
+  width: 100%;
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 16px 20px 16px 70px;
+}
+
+.title {
+  text-transform: uppercase;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.subtitle {
+  text-transform: uppercase;
+  font-size: 14px;
+  margin-top: -20px;
+}
+
+.quote {
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  line-height: 2px;
+  font-size: 3em;
+  margin-top: 30px;
+  margin-bottom: -18px !important;
+  padding-bottom: 0px;
+}
+
+.right {
+  text-align: right;
+  padding-top: 3px;
+  margin-top: 0;
+  margin-bottom: 0 !important;
+}
+
+.qtext {
+  padding-left: 15px;
+  padding-right: 12px;
+}
+
+@keyframes carousel-animate-vertical {
+  0% {
+    transform: translateY(100%) scale(0.5);
+    opacity: 0;
+    visibility: hidden;
+  }
+  #{$slide-change-timing}%,
+  #{$animation-steps-fraction}% {
+    transform: translateY(100%) scale(0.7);
+    opacity: .4;
+    visibility: visible;
+  }
+  #{$animation-steps-fraction + $slide-change-timing}%,
+  #{$animation-steps-fraction * 2}% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+    visibility: visible;
+  }
+  #{($animation-steps-fraction * 2) + $slide-change-timing}%,
+  #{$animation-steps-fraction * 3}% {
+    transform: translateY(-100%) scale(0.7);
+    opacity: .4;
+    visibility: visible;
+  }
+  #{($animation-steps-fraction * 3) + $slide-change-timing}% {
+    transform: translateY(-100%) scale(0.5);
+    opacity: 0;
+    visibility: visible;
+  }
+  100% {
+    transform: translateY(-100%) scale(0.5);
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+/* end quote carousel */
+
+/* for LinkedIn */
+.libutton {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 7px;
+  text-align: center;
+  outline: none;
+  text-decoration: none !important;
+  color: #ffffff !important;
+  width: 200px;
+  height: 32px;
+  border-radius: 16px;
+  background-color: #0A66C2;
+  font-family: "SF Pro Text", Helvetica, sans-serif;
+}
+/* end LinkedIn */
