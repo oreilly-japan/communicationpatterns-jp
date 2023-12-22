@@ -1,4 +1,4 @@
-# ²èÁü
+# ç”»åƒ
 [> Home](README.md)
 
 All images are licensed as [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/)
@@ -341,17 +341,17 @@ All images are licensed as [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://cr
 <a href="assets/figures/copa_1202.png"><img src="assets/figures/copa_1202.png" style="zoom:25%;" /></a>
 
 ### Fig 12-3
-[ïızµview text version](/assets/ADR-example-decision-making.md)
+[é™œzview text version](/assets/ADR-example-decision-making.md)
 
 <a href="assets/figures/copa_1203.png"><img src="assets/figures/copa_1203.png" style="zoom:25%;" /></a>
 
 ### Fig 12-4
-[ïızµview text version](/assets/ADR-example-decision-making.md)
+[é™œzview text version](/assets/ADR-example-decision-making.md)
 
 <a href="assets/figures/copa_1204.png"><img src="assets/figures/copa_1204.png" style="zoom:25%;" /></a>
 
 ### Fig 12-5
-[ïızµview text version](/assets/ADR-example.md)
+[é™œzview text version](/assets/ADR-example.md)
 
 <a href="assets/figures/copa_1205.png"><img src="assets/figures/copa_1205.png" style="zoom:25%;" /></a>
 
