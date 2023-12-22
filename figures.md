@@ -1,13 +1,13 @@
 # 画像
-[> Home](README.md)
+[> ホーム](README.md)
 
 All images are licensed as [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/)
 
 <a name="toc"></a>
 
-## Contents
+## コンテンツ
 ### Part I
-- <a href="#chap01">Chapter 1</a>
+- <a href="#chap01">1章</a>
 - <a href="#chap02">Chapter 2</a>
 - <a href="#chap03">Chapter 3</a>
 - <a href="#chap04">Chapter 4</a>
@@ -31,11 +31,11 @@ All images are licensed as [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://cr
 
 <a name="chap01"></a>
 
-## Chapter 1
+## 1章
 
 <a name="fig1-1"></a>
 
-### Fig 1-1
+### 図 1-1
 <a href="assets/figures/copa_0101.png"><img src="assets/figures/copa_0101.png" style="zoom:25%;" /></a>
 
 <a name="fig1-2"></a>
