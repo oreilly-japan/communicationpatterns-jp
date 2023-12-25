@@ -3,7 +3,6 @@
   <td>
    <h2>カラー図版</h2>
    <p>書籍のカラー図版は<a href="figures.md">こちら</a>です。
-  </td>
    <h2>おまけ</h2>
    <p>おまけは<a href="freebies.md">こちら</a>です。
   </td>
