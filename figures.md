@@ -8,11 +8,11 @@ All images are licensed as [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://cr
 ## コンテンツ
 ### Part I
 - <a href="#chap01">1章</a>
-- <a href="#chap02">Chapter 2</a>
-- <a href="#chap03">Chapter 3</a>
-- <a href="#chap04">Chapter 4</a>
-- <a href="#chap05">Chapter 5</a>
-- <a href="#chap06">Chapter 6</a>
+- <a href="#chap02">2章</a>
+- <a href="#chap03">3章</a>
+- <a href="#chap04">4章</a>
+- <a href="#chap05">5章</a>
+- <a href="#chap06">6章</a>
 
 ### Part II
 - <a href="#chap07">Chapter 7</a>
@@ -399,4 +399,4 @@ All images are licensed as [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://cr
 
 <a href="#toc">^ contents</a>
 
-[> Home](README.md)
+[> ホーム](README.md)
