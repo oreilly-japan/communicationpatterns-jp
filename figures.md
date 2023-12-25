@@ -1,7 +1,7 @@
 # 画像
 [> ホーム](README.md)
 
-全ての画像は [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/)を翻訳して作成しています。
+全ての画像[CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/)を翻訳して作成しています。
 
 <a name="toc"></a>
 
