@@ -1,7 +1,7 @@
 # 画像
 [> ホーム](README.md)
 
-全ての画像[CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/)を翻訳して作成しています。
+全ての画像は [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/)であり、翻訳したものです。
 
 <a name="toc"></a>
 
@@ -397,6 +397,6 @@
 ### Fig 15-4
 <a href="assets/figures/copa_1504.png"><img src="assets/figures/copa_1504.png" style="zoom:25%;" /></a>
 
-<a href="#toc">^ contents</a>
+<a href="#toc">^ コンテンツ</a>
 
 [> ホーム](README.md)
