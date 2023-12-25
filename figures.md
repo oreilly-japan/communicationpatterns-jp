@@ -6,7 +6,7 @@ All images are licensed as [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://cr
 <a name="toc"></a>
 
 ## コンテンツ
-### Part I
+### 第I部
 - <a href="#chap01">1章</a>
 - <a href="#chap02">2章</a>
 - <a href="#chap03">3章</a>
