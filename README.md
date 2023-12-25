@@ -1,6 +1,9 @@
 <table style="border-collapse: collapse;">
  <tr>
   <td>
+   <h2>Communication Patterns</h2>
+   <p>Communication Patterns のサポートサイトです。</p>
+   <ul>
    <h2>カラー図版</h2>
    <p>書籍のカラー図版は<a href="figures.md">こちら</a>です。
    <h2>おまけ</h2>
