@@ -5,8 +5,8 @@
    <p>Communication Patterns のサポートサイトです。</p>
    <h2>カラー図版</h2>
    <p>書籍のカラー図版は<a href="figures.md">こちら</a>です。
-<!--   <h2>無料サンプル</h2> -->
-<!--   <p>無料サンプルは<a href="freebies.md">こちら</a>です。 -->
+<!--   <h2>フリービー</h2> -->
+<!--   <p>フリービーは<a href="freebies.md">こちら</a>です。 -->
   </td>
   <td style="min-width: 75px; max-width: 300px">
    <image src="assets/compatcover.png" align="center" alt="Book cover: Communication Patterns" />
