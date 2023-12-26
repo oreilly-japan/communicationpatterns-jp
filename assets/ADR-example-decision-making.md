@@ -76,6 +76,6 @@ We will use event-driven architecture due to its responsiveness and scalability,
 - _Mark_: Responsiveness needs to be the top priority due to customer complaints.
 - _Libby_: Pure microservices would require that services do not share data stores. Splitting our data like this would require a lot of effort.
 
-LICENSE: [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/).
+ライセンス: [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/)を翻訳して作成。
 
-[> Home](README.md) | [> Freebies](freebies.md)
+[> ホーム](README.md) | [> フリービー](freebies.md)
