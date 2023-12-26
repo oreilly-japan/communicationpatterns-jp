@@ -1,7 +1,7 @@
 # 画像
 [> ホーム](README.md)
 
-[CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/)でライセンスされいる[Figures](https://communicationpatternsbook.com/figures.html)にあるすべての画像を翻訳して作成。
+[Figures](https://communicationpatternsbook.com/figures.html)にある[CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/)ライセンスのすべての画像を翻訳して作成。
 
 <a name="toc"></a>
 
