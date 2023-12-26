@@ -40,4 +40,4 @@ to give input can be recorded, whether they provide input or not. Although consu
 takes place before a decision, it is documented at the end because it can become
 long and obscure the decision itself.
 
-[> ホーム](README.md) | [> フリービー](freebies.md)
+[> Home](README.md) | [> Freebies](freebies.md)

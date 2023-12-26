@@ -29,4 +29,4 @@ We will use event-driven architecture due to its responsiveness and scalability,
 
 ライセンス: [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/)を翻訳して作成。
 
-[> ホーム](README.md) | [> フリービー](freebies.md)
+[> Home](README.md) | [> Freebies](freebies.md)
