@@ -27,6 +27,6 @@ We will use event-driven architecture due to its responsiveness and scalability,
 - Event management (such as queues) adds extra complexity to development and deployment.
 - Integration testing and DevOps will need to be overhauled.
 
-ライセンス：[CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/)でライセンスされた[ADR-044 Change to Event-Driven Architecture](https://communicationpatternsbook.com/assets/ADR-example.html)を翻訳して作成したものです。
+ライセンス：[CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/)でライセンスされた[ADR-044 Change to Event-Driven Architecture](https://communicationpatternsbook.com/assets/ADR-example.html)を翻訳したものです。
 
 [> Home](README.md) | [> Freebies](freebies.md)
