@@ -1,14 +1,22 @@
-<table style="border-collapse: collapse;">
- <tr>
-  <td>
-   <h2>Communication Patterns</h2>
-   <p>Communication Patterns のサポートサイトです。</p>
-   <h2>カラー図版</h2>
-   <p>書籍のカラー図版は<a href="figures.md">こちら</a>です。
-<!--   <h2>フリービー</h2> -->
-<!--   <p>フリービーは<a href="freebies.md">こちら</a>です。 -->
-  </td>
-  <td style="min-width: 75px; max-width: 300px">
-   <image src="assets/compatcover.png" align="center" alt="Book cover: Communication Patterns" />
-  </td>
- </tr>
+# Communication Patterns
+
+---
+
+![表紙](assets/compatcover.png)
+
+---
+
+本リポジトリはオライリー・ジャパン発行書籍『[Communication Patterns](https://www.amazon.co.jp)』のサポートサイトです。
+
+## 構成
+
+- [カラー図版](figures.md)
+- [フリーツール](freebies.md)
+
+## 正誤表
+
+本書の正誤情報は以下のページで公開しています。
+
+https://github.com/oreilly-japan/designing-ml-systems-ja/wiki/errata
+
+本ページに掲載されていない誤植など間違いを見つけた方は、[japan＠oreilly.co.jp](<mailto:japan＠oreilly.co.jp>)までお知らせください。
