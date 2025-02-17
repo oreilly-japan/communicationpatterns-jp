@@ -7,8 +7,8 @@
 
 以下に、ADRを作成するための例とテンプレートを示します。ライセンスは各ファイルに個別に指定されています。
 
-- [ADRの例](assets/ADR-example.md) [[markdown]](https://raw.githubusercontent.com/tekiegirl/communicationpatterns/main/assets/ADR-example.md)：一般的な用途向け。
-- [ADRの意思決定例](assets/ADR-example-decision-making.md) [[markdown]](https://raw.githubusercontent.com/tekiegirl/communicationpatterns/main/assets/ADR-example-decision-making.md)：意思決定のプロセスを整理し、構造化するために使用。
-- [ADRテンプレート](assets/ADR-template.md) [[markdown]](https://raw.githubusercontent.com/tekiegirl/communicationpatterns/main/assets/ADR-template.md)：各項目に含めるべき内容を示した見出し付き。
+- [ADRの例](assets/ADR-example.md) [[markdown]](https://raw.githubusercontent.com/tekiegirl/communicationpatterns/main/assets/ADR-example.md)：一般的な使用向け。
+- [ADRの意思決定例](assets/ADR-example-decision-making.md) [[markdown]](https://raw.githubusercontent.com/tekiegirl/communicationpatterns/main/assets/ADR-example-decision-making.md)：意思決定のプロセスを整理し、構造化するために使用する。
+- [ADRテンプレート](assets/ADR-template.md) [[markdown]](https://raw.githubusercontent.com/tekiegirl/communicationpatterns/main/assets/ADR-template.md)：各項目に含めるべき内容の詳細を示す。
 
 [> ホーム](README.md)

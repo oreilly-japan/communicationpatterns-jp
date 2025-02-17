@@ -1,10 +1,18 @@
 [> Home](README.md) | [> Freebies](freebies.md)
 
+[](
 # ADR-044 Change to Event-Driven Architecture
+)
+# ADR-044 イベント駆動型アーキテクチャへの変更
 
+## ステータス
+決定済み、2023-10-04
+[ADR-031 サーバーレス関数の使用](https://link-to-superseded-ADR)を置き換える
+[](
 ## Status
-Decided, 2023-10-04  
-Supersedes [ADR-031 Use serverless functions](https://link-to-superseded-ADR)
+Decided, 2023-10-04  \
+Supersedes [ADR-031 Use serverless functions](https://link-to-superseded-ADR)\
+)
 
 ## Context
 The Polyglot Media system is currently a distributed system consisting mostly of serverless functions. Moving from a monolith to a distributed serverless architecture was done to tackle problems with the responsiveness of the live system and a long lead time between functionality and bug fixes being coded and deployed to production.
