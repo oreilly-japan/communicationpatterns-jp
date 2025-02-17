@@ -2,7 +2,7 @@
 [> ホーム](README.md)
 
 > **Note**
-当画像は[Figures](https://communicationpatternsbook.com/figures.html) にある [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/) でライセンスされたすべての画像を翻訳して作成したものです。
+当画像は[Figures](https://communicationpatternsbook.com/figures.html) にある [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/) でライセンスされた画像を翻訳して作成したものです。
 
 <a name="toc"></a>
 
