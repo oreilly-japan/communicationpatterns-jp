@@ -1,43 +1,39 @@
 [> Home](README.md) | [> Freebies](freebies.md)
 
-# Identifier and Title (a statement of the decision made)
+# 識別子とタイトル（行われた決定の声明）
 
-## Status
-Draft/Decided/Superseded by ADR-XXX
+## ステータス
+草案/決定済み/ADR-XXXによって差し替え。
 
-## Context
-Why you need to make the decision. Assumptions, constraints, and decision drivers.
+## コンテキスト
+なぜ決定する必要があるのか。前提、制約、および決定要因。
 
-## Evaluation Criteria
-What is important to you in making this decision?
-Which of your architectural characteristics apply to making this decision?
-Should any constraints or decision-drivers become a criterion?
+## 評価基準
+この決定をするうえで重要なことは何か？
+どのアーキテクチャ特性がこの決定に適用されるのか？
+基準とすべき制約や決定要因は？
 
-## Options
-Outlines of the options considered against the evaluation criteria (usually using a
-score or rating), and trade-offs outside of the evaluation criteria. A template for a comparison table is included below.
+## 選択肢
+評価基準に照らして考慮された選択肢の概要（通常はスコアやレーティングを用いる）、および評価基準外のトレードオフ。以下に比較表のテンプレートを示す。
 
 ### 1. First option
 
-| Criteria   | Score            | Rationale                                                                                                                       |
+| 基準   | スコア            | 根拠                                                                                                                       |
 | ---------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Criteria 1 | ★★★☆☆ 3/5        | Rationale for score 1 with optional [link to reference](https://link-to-reference)                                              |
-| Criteria 2 | ★★★☆☆ 3/5        | Rationale for score 2                                                                                                           |
-| Criteria 3 | ★★★★★ 5/5        | Rationale for score 3                                                                                                           |
-| Criteria n | ★★★★★ 5/5        | Rationale for score n                                                                                                           |
-|            | **Total:** 16/20 | **Other Trade-offs**                                                                                                            |
-|            |                  | - Extra tradeoff 1 with optional [link to reference](https://link-to-reference) <br/>- Extra tradeoff 2 <br/>- Extra tradeoff n |
+| 基準1 | ★★★☆☆ 3/5        | スコア1の根拠。必要に応じて[参考資料へのリンクを追加](https://link-to-reference)                                              |
+| 基準2 | ★★★☆☆ 3/5        | スコア2の根拠                                                                                                           |
+| 基準3 | ★★★★★ 5/5        | スコア3の根拠                                                                                                           |
+| 基準n | ★★★★★ 5/5        | スコアnの根拠                                                                                                           |
+|            | **合計:** 16/20 | **その他のトレードオフ**                                                                                                            |
+|            |                  | - 追加のトレードオフ1。必要に応じて[参考資料へのリンクを追加](https://link-to-reference) <br/>- 追加のトレードオフ2 <br/>- Extra tradeoff n |
 
-## Decision
-The choice that was made and why.
+## 決定
+行われた選択とその理由。
 
-## Implications
-The positive and negative consequences of the decision made.
+## 影響
+決定によるポジティブな影響とネガティブな影響。
 
-## Consultation
-If taking input from others, they should document it here. Details of those invited
-to give input can be recorded, whether they provide input or not. Although consultation
-takes place before a decision, it is documented at the end because it can become
-long and obscure the decision itself.
+## 協議
+他の人の意見を聞く場合に記録。協議に先だって行われるが、長くなったり決定自体が不明瞭になったりする可能性があるため、最後に記録される。
 
 [> Home](README.md) | [> Freebies](freebies.md)

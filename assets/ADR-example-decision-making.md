@@ -1,80 +1,80 @@
 [> Home](README.md) | [> Freebies](freebies.md)
 
-# ADR-044 Use an Event-Driven Distributed Architecture
+# ADR-044 イベント駆動型の分散アーキテクチャの採用
 
 ## Status
-Decided, 2023-10-04  
-Supersedes [ADR-031 Use serverless functions](https://link-to-superseded-ADR)
+決定済み、2023-10-04
+[ADR-031 サーバーレス関数の使用](https://link-to-superseded-ADR)を置き換える
 
-## Context
-The Polyglot Media system is currently a distributed system consisting mostly of serverless functions. Moving from a monolith to a distributed serverless architecture was done to tackle problems with the responsiveness of the live system and a long lead time between functionality and bug fixes being coded and deployed to production.
+## コンテキスト
+Polyglot Mediaシステムは現在、主にサーバーレス関数からなる分散システムである。モノリシックから分散型サーバーレスアーキテクチャへ移行したのは、ライブシステムの応答性の問題や、機能とバグ修正がコード化され本番環境にデプロイされるまでの長いリードタイムに対処するためだった。
 
-Serverless architecture has not solved the problems with responsiveness or maintainability to the degree required, with functions being tightly coupled with many other functions.
+しかし、サーバーレスアーキテクチャでは、応答性やメンテナンス性の問題が必要なレベルで解決されず、機能が他の多くの機能と強く結びついている。
 
-A solution to the problems of responsiveness and time-to-market must be found.
+応答性と市場投入までの時間の問題を解決する方法を見つける必要がある。
 
 ## Evaluation Criteria
-See [ADR-002 Select Architecture Characteristics](https://link-to-ADR-002)
+[ADR-032 アーキテクチャ特性の選択](https://link-to-ADR-002)を参照
 
-- _Responsiveness_: Customers have been complaining about the responsiveness of the system, and this must be addressed. This is deemed the most important criterion.
-- _Maintainability_: The serverless functions improved the time-to-market of bug fixes and new functionality but not to the extent needed.
-- _Deployability_: Alongside maintainability, deployability is important to improve time-to-market for bug fixes and new functionality.
-- _Scalability_: Most complaints from customers about responsiveness have been around peak use times, so the system must handle peak numbers of users without impacting users.
+- _応答性_: 顧客はシステムの応答性に不満を感じており、これに対処する必要がある。これは最も重要な基準とされている。
+- _メンテナンス性_: サーバーレス関数により、バグ修正や新機能の市場投入までの時間は改善されたが、必要なレベルには達していない。
+- _デプロイ容易性_: メンテナンス性とともに、デプロイ容易性もバグ修正や新機能の市場投入までの時間を改善するために重要だ。
+- _スケーラビリティ_: 顧客からの応答性に関する苦情の多くはピーク時に集中しているため、システムはユーザーの最大ピーク数を影響を与えずに処理できる必要がある。
 
-## Options
-### 1. Microservices
+## 選択肢
+### 1. マイクロサービス
 
-| Criteria        | Score            | Rationale                                                                                                                                                                     |
+| 基準        | スコア            | 根拠                                                                                                                                                                     |
 | --------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Responsiveness  | ★★★☆☆ 3/5        | [Not inherently performant](https://link-to-reference-info) but optimisations can be put in place at bottlenecks, e.g. scaling                                                |
-| Maintainability | ★★★☆☆ 3/5        | Dependencies can be an issue, many data stores to maintain                                                                                                                    |
-| Deployability   | ★★★★★ 5/5        | Deploy only what has changed                                                                                                                                                  |
-| Scalability     | ★★★★★ 5/5        | Scale on per-service basis                                                                                                                                                    |
-|                 | **Total:** 16/20 | **Other Trade-offs**                                                                                                                                                          |
-|                 |                  | - Must split data into [one data store per service](https://link-to-reference-info) <br/>- Costs are usually high for building <br/>- Complex and is hard to create workflows |
+| 応答性  | ★★★☆☆ 3/5        | [本質的に高パフォーマンスではない](https://link-to-reference-info) が、ボトルネックでの最適化（例：スケーリング）が可能                                                |
+| メンテナンス性 | ★★★☆☆ 3/5        | 依存関係が問題になる可能性があり、多くのデータストアを管理する必要がある                                                                                                                    |
+| デプロイ容易性   | ★★★★★ 5/5        | 変更があった部分のみをデプロイ                                                                                                                                                  |
+| スケーラビリティ     | ★★★★★ 5/5        | サービスごとのスケールが可能                                                                                                                                                    |
+|                 | **合計:** 16/20 | **その他のトレードオフ**                                                                                                                                                          |
+|                 |                  | - データを [サービスごとに1つのデータストア](https://link-to-reference-info) に分割する必要がある<br/>- 構築コストが高くなる傾向がある <br/>- 複雑でワークフローの作成が難しい |
 
-### 2. Service-based
+### 2. サービスベース
 
-| Criteria        | Score            | Rationale                                                                                                                      |
+| 基準        | スコア            | 根拠                                                                                                                      |
 | --------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Responsiveness  | ★★★☆☆ 3/5        | [Not inherently performant](https://link-to-reference-info) but optimisations can be put in place at bottlenecks, e.g. scaling |
-| Maintainability | ★★★★☆ 4/5        | Fewer data stores to maintain than microservices                                                                               |
-| Deployability   | ★★★★☆ 4/5        | Deploy only what has changed, make sure changes to shared data store(s) don't affect other services                            |
-| Scalability     | ★★★☆☆ 3/5        | Scale individual services, harder to scale shared data store(s) unless using [caching](https://link-to-reference-info)         |
-|                 | **Total:** 14/20 | **Other Trade-offs**                                                                                                           |
-|                 |                  | - Reasonably complex & hard to create workflows <br/>- Not as evolvable as microservices                                       |
+| 応答性  | ★★★☆☆ 3/5        | [本質的に高パフォーマンスではない](https://link-to-reference-info) が、ボトルネックでの最適化（例：スケーリング）が可能 |
+| メンテナンス性 | ★★★★☆ 4/5        | マイクロサービスよりも少ないデータストアで管理可能                                                                               |
+| デプロイ容易性   | ★★★★☆ 4/5        | 変更があった部分のみをデプロイ、共有データストアの変更が他サービスに影響を与えないよう確認が必要                            |
+| スケーラビリティ     | ★★★☆☆ 3/5        | 個別のサービスはスケール可能だが、 [キャッシング](https://link-to-reference-info) を使用しない限り共有データストアのスケールは難しい        |
+|                 | **合計:** 14/20 | **その他のトレードオフ**                                                                                                           |
+|                 |                  | - 比較的複雑でワークフローの作成が難しい <br/>- マイクロサービスほど進化しやすくない                                       |
 
-### 3. Event-driven
+### 3. イベント駆動
 
-| Criteria        | Score            | Rationale                                                                                                                    |
+| 基準        | スコア            | 根拠                                                                                                                     |
 | --------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Responsiveness  | ★★★★★ 5/5        | Generally [fire-and-forget](https://link-to-reference-info), event processing can be scaled/optimised                        |
-| Maintainability | ★★★★☆ 4/5        | Must manage event processing as well as services and data stores, events decouple services to be managed by individual teams |
-| Deployability   | ★★★☆☆ 3/5        | Manage event processing deployment and changes as well as services                                                           |
-| Scalability     | ★★★★★ 5/5        | Services and message processing can both be scaled                                                                           |
-|                 | **Total:** 17/20 | **Other Trade-offs**                                                                                                         |
-|                 |                  | - [Integration testing can be harder](https://link-to-reference-info)                                                        |
+| 応答性  | ★★★★★ 5/5        | 一般的に [fire-and-forget](https://link-to-reference-info)であり、イベント処理はスケールや最適化が可能                        |
+| メンテナンス性 | ★★★★☆ 4/5        | イベント処理とともにサービスやデータストアの管理が必要、イベントによりサービスが分離され各チームで管理可能になる |
+| デプロイ容易性   | ★★★☆☆ 3/5        | イベント処理のデプロイと変更も含めて管理が必要                                                           |
+| スケーラビリティ     | ★★★★★ 5/5        | サービスとメッセージ処理の両方をスケール可能                                                                           |
+|                 | **合計:** 17/20 | **その他のトレードオフ**                                                                                                         |
+|                 |                  | - [その他のトレードオフ](https://link-to-reference-info)                                                        |
 
-## Decision
-We will use event-driven architecture due to its responsiveness and scalability, and the limited tradeoffs compared to the other two options. Event-driven also scores the highest of the three options on the most important criterion: responsiveness.
+## 決定
+意思決定基準に対する総合スコアおよび、最も重要な基準である応答性においてオプション1および2のスコアが低かったことから、イベント駆動型アーキテクチャを採用する。
 
-## Implications
-### Positive
-- We gain overall higher responsiveness, maintainability, and scalability than the current serverless functions.
-- Processing of events is scalable by spinning up additional instances of services to process queued events.
-- Processing within services is scalable by spinning up additional instances of services to handle the need for processing within the services.
+## 影響
+### ポジティブな影響
+- 現行のサーバーレス機能よりも、全体的な応答性、メンテナンス性、スケーラビリティが向上する。
+- 待機中のイベントを処理するために、サービスの追加インスタンスを起動することでイベント処理のスケーラビリティが向上する。
+- サービス内での処理において、サービスの追加インスタンスを起動することでスケーラビリティが向上し、サービス内での処理ニーズに対応できる。
 
-### Negative
-- Teams or individuals may need to learn new skills or technologies (such as event queues).
-- Event management (such as queues) adds extra complexity to development and deployment.
-- Integration testing and DevOps will need to be overhauled.
+### ネガティブな影響
+- チームまたは個人が新しいスキルや技術（イベントキューなど）を学ぶ必要が出てくるかもしれない。
+- イベント管理（キューなど）は、開発とデプロイメントがさらに複雑になる。
+- 統合テストおよびDevOpsを全面的に見直す必要が生じる。
 
-## Consultation
-- _Vlad_: Neither microservices nor service-based are [inherently performant](https://link-to-reference-info), so likely will not boost responsiveness as much as we want.
-- _Nikki_: I have experience in event-driven architecture, using queues. We monitored the length of queues and spun up extra instances of services to process long queues when needed.
-- _Libby_: Queues and channels can be used to prioritise the processing of events, for example with the [ambulance pattern](https://link-to-reference-info).
-- _Mark_: Responsiveness needs to be the top priority due to customer complaints.
-- _Libby_: Pure microservices would require that services do not share data stores. Splitting our data like this would require a lot of effort.
+## 協議内容
+- _ヴラッド_: マイクロサービスもサービスベースも [本質的に高パフォーマンスではない](https://link-to-reference-info) ため、私たちが望むほど応答性を高めることはできないでしょう。
+- _ニッキ_:私はイベント駆動型アーキテクチャの経験があり、キューを使用していました。キューの長さを監視し、必要に応じてサービスの追加インスタンスを起動して長いキューを処理していました。
+- _リビー_: キューとチャネルを使ってイベント処理の優先順位をつけることができます。例えば [急車パターン](https://link-to-reference-info) が使えます。
+- _マーク_: 応答性は顧客の苦情に対応するため、最優先事項であるべきです。
+- _リビー_:完全なマイクロサービスの場合、サービス間でデータストアを共有しない必要があります。データをこのように分割するには、かなりの労力が必要でしょう。
 
 ライセンス：[CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/)でライセンスされた[ADR-044 Use an Event-Driven Distributed Architecture](https://communicationpatternsbook.com/assets/ADR-example-decision-making.htmll)を翻訳したものです。
 
