@@ -78,4 +78,4 @@ Polyglot Mediaシステムは現在、主にサーバーレス関数からなる
 
 ライセンス：[CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/)でライセンスされた[ADR-044 Use an Event-Driven Distributed Architecture](https://communicationpatternsbook.com/assets/ADR-example-decision-making.htmll)を翻訳したものです。
 
-[> Home](README.md) | [> Freebies](freebies.md)
+[> Home](https://github.com/oreilly-japan/communicationpatterns-jp) | [>特典コンテンツ](https://github.com/oreilly-japan/communicationpatterns-jp/blob/master/freebies.md)

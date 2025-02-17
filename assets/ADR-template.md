@@ -36,4 +36,4 @@
 ## 協議
 他の人の意見を聞く場合に記録。協議に先だって行われるが、長くなったり決定自体が不明瞭になったりする可能性があるため、最後に記録される。
 
-[> Home](README.md) | [> Freebies](freebies.md)
+[> Home](https://github.com/oreilly-japan/communicationpatterns-jp) | [>特典コンテンツ](https://github.com/oreilly-japan/communicationpatterns-jp/blob/master/freebies.md)
