@@ -1,4 +1,4 @@
-[> Home](https://github.com/oreilly-japan/communicationpatterns-jp) | [>特典コンテンツ](https://github.com/oreilly-japan/communicationpatterns-jp/blob/master/freebies.md
+[> Home](https://github.com/oreilly-japan/communicationpatterns-jp) | [>特典コンテンツ](https://github.com/oreilly-japan/communicationpatterns-jp/blob/master/freebies.md)
 
 # ADR-044 イベント駆動型アーキテクチャへの変更
 

@@ -1,4 +1,4 @@
-[> Home](README.md) | [> Freebies](freebies.md)
+[> Home](https://github.com/oreilly-japan/communicationpatterns-jp) | [>特典コンテンツ](https://github.com/oreilly-japan/communicationpatterns-jp/blob/master/freebies.md)
 
 # 識別子とタイトル（行われた決定の声明）
 
