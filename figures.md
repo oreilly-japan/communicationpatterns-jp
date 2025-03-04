@@ -94,7 +94,7 @@
 ### 図1-12
 <a href="assets/figures/copa_0112.png"><img src="assets/figures/copa_0112.png" style="zoom:25%;" /></a>
 
-<a href="#toc">^ contents</a>
+<a href="#toc">^ コンテンツ</a>
 
 <a name="chap02"></a>
 
@@ -123,7 +123,7 @@
 ### 図2-8
 <a href="assets/figures/copa_0208.png"><img src="assets/figures/copa_0208.png" style="zoom:25%;" /></a>
 
-<a href="#toc">^ contents</a>
+<a href="#toc">^ コンテンツ</a>
 
 <a name="chap03"></a>
 
@@ -152,7 +152,7 @@
 ### 図3-8
 <a href="assets/figures/copa_0308.png"><img src="assets/figures/copa_0308.png" style="zoom:25%;" /></a>
 
-<a href="#toc">^ contents</a>
+<a href="#toc">^ コンテンツ</a>
 
 <a name="chap04"></a>
 
@@ -184,7 +184,7 @@
 ### 図4-9
 <a href="assets/figures/copa_0409.png"><img src="assets/figures/copa_0409.png" style="zoom:25%;" /></a>
 
-<a href="#toc">^ contents</a>
+<a href="#toc">^ コンテンツ</a>
 
 <a name="chap05"></a>
 
@@ -216,7 +216,7 @@
 ### 図5-9
 <a href="assets/figures/copa_0509.png"><img src="assets/figures/copa_0509.png" style="zoom:25%;" /></a>
 
-<a href="#toc">^ contents</a>
+<a href="#toc">^ コンテンツ</a>
 
 <a name="chap06"></a>
 
@@ -272,7 +272,7 @@
 ### 図6-17
 <a href="assets/figures/copa_0617.png"><img src="assets/figures/copa_0617.png" style="zoom:25%;" /></a>
 
-<a href="#toc">^ contents</a>
+<a href="#toc">^ コンテンツ</a>
 
 <a name="chap07"></a>
 
@@ -280,7 +280,7 @@
 ### 図7-1
 <a href="assets/figures/copa_0701.png"><img src="assets/figures/copa_0701.png" style="zoom:25%;" /></a>
 
-<a href="#toc">^ contents</a>
+<a href="#toc">^ コンテンツ</a>
 
 <a name="chap08"></a>
 
@@ -291,7 +291,7 @@
 ### 図8-2
 <a href="assets/figures/copa_0802.png"><img src="assets/figures/copa_0802.png" style="zoom:25%;" /></a>
 
-<a href="#toc">^ contents</a>
+<a href="#toc">^ コンテンツ</a>
 
 <a name="chap09"></a>
 
@@ -299,7 +299,7 @@
 ### 図9-1
 <a href="assets/figures/copa_0901.png"><img src="assets/figures/copa_0901.png" style="zoom:25%;" /></a>
 
-<a href="#toc">^ contents</a>
+<a href="#toc">^ コンテンツ</a>
 
 <a name="chap10"></a>
 
@@ -319,7 +319,7 @@
 ### 図10-5
 <a href="assets/figures/copa_1005.png"><img src="assets/figures/copa_1005.png" style="zoom:25%;" /></a>
 
-<a href="#toc">^ contents</a>
+<a href="#toc">^ コンテンツ</a>
 
 <a name="chap11"></a>
 
@@ -330,7 +330,7 @@
 ### 図11-2
 <a href="assets/figures/copa_1102.png"><img src="assets/figures/copa_1102.png" style="zoom:25%;" /></a>
 
-<a href="#toc">^ contents</a>
+<a href="#toc">^ コンテンツ</a>
 
 <a name="chap12"></a>
 
@@ -362,7 +362,7 @@
 ### 図12-7
 <a href="assets/figures/copa_1207.png"><img src="assets/figures/copa_1207.png" style="zoom:25%;" /></a>
 
-<a href="#toc">^ contents</a>
+<a href="#toc">^ コンテンツ</a>
 
 <a name="chap13"></a>
 
@@ -373,7 +373,7 @@
 ### 図13-2
 <a href="assets/figures/copa_1302.png"><img src="assets/figures/copa_1302.png" style="zoom:25%;" /></a>
 
-<a href="#toc">^ contents</a>
+<a href="#toc">^ コンテンツ</a>
 
 <a name="chap14"></a>
 
@@ -381,7 +381,7 @@
 ### 図14-1
 <a href="assets/figures/copa_1401.png"><img src="assets/figures/copa_1401.png" style="zoom:25%;" /></a>
 
-<a href="#toc">^ contents</a>
+<a href="#toc">^ コンテンツ</a>
 
 <a name="chap15"></a>
 
