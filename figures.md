@@ -37,7 +37,7 @@
 <a name="fig1-1"></a>
 
 ### 図1-1
-<a href="assets/figures/copa_0101.png"><img src="assets/figures/copa_0101.png" style="zoom:12.5%;" /></a>
+<a href="assets/figures/copa_0101.png"><img src="assets/figures/copa_0101.png" width="200" /></a>
 
 <a name="fig1-2"></a>
 
