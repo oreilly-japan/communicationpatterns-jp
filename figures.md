@@ -127,7 +127,7 @@
 
 <a name="chap03"></a>
 
-## Chapter 3
+## 3章
 ### 図3-1
 <a href="assets/figures/copa_0301.png"><img src="assets/figures/copa_0301.png" style="zoom:25%;" /></a>
 
@@ -156,7 +156,7 @@
 
 <a name="chap04"></a>
 
-## Chapter 4
+## 4章
 ### 図4-1
 <a href="assets/figures/copa_0401.png"><img src="assets/figures/copa_0401.png" style="zoom:25%;" /></a>
 
@@ -188,7 +188,7 @@
 
 <a name="chap05"></a>
 
-## Chapter 5
+## 5章
 ### 図5-1
 <a href="assets/figures/copa_0501.png"><img src="assets/figures/copa_0501.png" style="zoom:25%;" /></a>
 
@@ -220,7 +220,7 @@
 
 <a name="chap06"></a>
 
-## Chapter 6
+## 6章
 ### 図6-1
 <a href="assets/figures/copa_0601.png"><img src="assets/figures/copa_0601.png" style="zoom:25%;" /></a>
 
@@ -276,7 +276,7 @@
 
 <a name="chap07"></a>
 
-## Chapter 7
+## 7章
 ### 図7-1
 <a href="assets/figures/copa_0701.png"><img src="assets/figures/copa_0701.png" style="zoom:25%;" /></a>
 
@@ -284,7 +284,7 @@
 
 <a name="chap08"></a>
 
-## Chapter 8
+## 8章
 ### 図8-1
 <a href="assets/figures/copa_0801.png"><img src="assets/figures/copa_0801.png" style="zoom:25%;" /></a>
 
@@ -295,7 +295,7 @@
 
 <a name="chap09"></a>
 
-## Chapter 9
+## 9章
 ### 図9-1
 <a href="assets/figures/copa_0901.png"><img src="assets/figures/copa_0901.png" style="zoom:25%;" /></a>
 
@@ -303,7 +303,7 @@
 
 <a name="chap10"></a>
 
-## Chapter 10
+## 10章
 ### 図10-1
 <a href="assets/figures/copa_1001.png"><img src="assets/figures/copa_1001.png" style="zoom:25%;" /></a>
 
@@ -323,7 +323,7 @@
 
 <a name="chap11"></a>
 
-## Chapter 11
+## 11章
 ### 図11-1
 <a href="assets/figures/copa_1101.png"><img src="assets/figures/copa_1101.png" style="zoom:25%;" /></a>
 
@@ -334,7 +334,7 @@
 
 <a name="chap12"></a>
 
-## Chapter 12
+## 12章
 ### 図12-1
 <a href="assets/figures/copa_1201.png"><img src="assets/figures/copa_1201.png" style="zoom:25%;" /></a>
 
@@ -366,7 +366,7 @@
 
 <a name="chap13"></a>
 
-## Chapter 13
+## 13章
 ### 図13-1
 <a href="assets/figures/copa_1301.png"><img src="assets/figures/copa_1301.png" style="zoom:10%;" /></a>
 
@@ -377,7 +377,7 @@
 
 <a name="chap14"></a>
 
-## Chapter 14
+## 14章
 ### 図14-1
 <a href="assets/figures/copa_1401.png"><img src="assets/figures/copa_1401.png" style="zoom:25%;" /></a>
 
@@ -385,7 +385,7 @@
 
 <a name="chap15"></a>
 
-## Chapter 15
+## 15章
 ### 図15-1
 <a href="assets/figures/copa_1501.png"><img src="assets/figures/copa_1501.png" style="zoom:25%;" /></a>
 
