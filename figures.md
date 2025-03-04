@@ -368,7 +368,7 @@
 
 ## 13章
 ### 図13-1
-<a href="assets/figures/copa_1301.png"><img src="assets/figures/copa_1301.png" style="zoom:10%;" /></a>
+<a href="assets/figures/copa_1301.png"><img src="assets/figures/copa_1301.png" width="100" /></a>
 
 ### 図13-2
 <a href="assets/figures/copa_1302.png"><img src="assets/figures/copa_1302.png" width="300" /></a>
