@@ -222,7 +222,7 @@
 
 ## 6章
 ### 図6-1
-<a href="assets/figures/copa_0601.png"><img src="assets/figures/copa_0601.png" width="300" /></a>
+<a href="assets/figures/copa_0601.png"><img src="assets/figures/copa_0601.png" width="100" /></a>
 
 ### 図6-2
 <a href="assets/figures/copa_0602.png"><img src="assets/figures/copa_0602.png" width="300" /></a>
