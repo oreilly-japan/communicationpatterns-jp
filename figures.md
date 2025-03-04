@@ -286,7 +286,7 @@
 
 ## 8章
 ### 図8-1
-<a href="assets/figures/copa_0801.png"><img src="assets/figures/copa_0801.png" width="300" /></a>
+<a href="assets/figures/copa_0801.png"><img src="assets/figures/copa_0801.png" width="100" /></a>
 
 ### 図8-2
 <a href="assets/figures/copa_0802.png"><img src="assets/figures/copa_0802.png" width="300" /></a>
@@ -342,17 +342,17 @@
 <a href="assets/figures/copa_1202.png"><img src="assets/figures/copa_1202.png" width="300" /></a>
 
 ### 図12-3
-[陜zview text version](/assets/ADR-example-decision-making.md)
+[テキスト版](/assets/ADR-example-decision-making.md)
 
 <a href="assets/figures/copa_1203.png"><img src="assets/figures/copa_1203.png" width="300" /></a>
 
 ### 図12-4
-[陜zview text version](/assets/ADR-example-decision-making.md)
+[テキスト版](/assets/ADR-example-decision-making.md)
 
 <a href="assets/figures/copa_1204.png"><img src="assets/figures/copa_1204.png" width="300" /></a>
 
 ### 図12-5
-[陜zview text version](/assets/ADR-example.md)
+[テキスト版](/assets/ADR-example.md)
 
 <a href="assets/figures/copa_1205.png"><img src="assets/figures/copa_1205.png" width="300" /></a>
 
