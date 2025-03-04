@@ -98,29 +98,29 @@
 
 <a name="chap02"></a>
 
-## Chapter 2
-### Fig 2-1
+## 2章
+### 図2-1
 <a href="assets/figures/copa_0201.png"><img src="assets/figures/copa_0201.png" style="zoom:25%;" /></a>
 
-### Fig 2-2
+### 図2-2
 <a href="assets/figures/copa_0202.png"><img src="assets/figures/copa_0202.png" style="zoom:25%;" /></a>
 
-### Fig 2-3
+### 図2-3
 <a href="assets/figures/copa_0203.png"><img src="assets/figures/copa_0203.png" style="zoom:25%;" /></a>
 
-### Fig 2-4
+### 図2-4
 <a href="assets/figures/copa_0204.png"><img src="assets/figures/copa_0204.png" style="zoom:25%;" /></a>
 
-### Fig 2-5
+### 図2-5
 <a href="assets/figures/copa_0205.png"><img src="assets/figures/copa_0205.png" style="zoom:25%;" /></a>
 
-### Fig 2-6
+### 図2-6
 <a href="assets/figures/copa_0206.png"><img src="assets/figures/copa_0206.png" style="zoom:25%;" /></a>
 
-### Fig 2-7
+### 図2-7
 <a href="assets/figures/copa_0207.png"><img src="assets/figures/copa_0207.png" style="zoom:25%;" /></a>
 
-### Fig 2-8
+### 図2-8
 <a href="assets/figures/copa_0208.png"><img src="assets/figures/copa_0208.png" style="zoom:25%;" /></a>
 
 <a href="#toc">^ contents</a>
@@ -128,28 +128,28 @@
 <a name="chap03"></a>
 
 ## Chapter 3
-### Fig 3-1
+### 図3-1
 <a href="assets/figures/copa_0301.png"><img src="assets/figures/copa_0301.png" style="zoom:25%;" /></a>
 
-### Fig 3-2
+### 図3-2
 <a href="assets/figures/copa_0302.png"><img src="assets/figures/copa_0302.png" style="zoom:25%;" /></a>
 
-### Fig 3-3
+### 図3-3
 <a href="assets/figures/copa_0303.png"><img src="assets/figures/copa_0303.png" style="zoom:25%;" /></a>
 
-### Fig 3-4
+### 図3-4
 <a href="assets/figures/copa_0304.png"><img src="assets/figures/copa_0304.png" style="zoom:25%;" /></a>
 
-### Fig 3-5
+### 図3-5
 <a href="assets/figures/copa_0305.png"><img src="assets/figures/copa_0305.png" style="zoom:25%;" /></a>
 
-### Fig 3-6
+### 図3-6
 <a href="assets/figures/copa_0306.png"><img src="assets/figures/copa_0306.png" style="zoom:25%;" /></a>
 
-### Fig 3-7
+### 図3-7
 <a href="assets/figures/copa_0307.png"><img src="assets/figures/copa_0307.png" style="zoom:25%;" /></a>
 
-### Fig 3-8
+### 図3-8
 <a href="assets/figures/copa_0308.png"><img src="assets/figures/copa_0308.png" style="zoom:25%;" /></a>
 
 <a href="#toc">^ contents</a>
@@ -157,31 +157,31 @@
 <a name="chap04"></a>
 
 ## Chapter 4
-### Fig 4-1
+### 図4-1
 <a href="assets/figures/copa_0401.png"><img src="assets/figures/copa_0401.png" style="zoom:25%;" /></a>
 
-### Fig 4-2
+### 図4-2
 <a href="assets/figures/copa_0402.png"><img src="assets/figures/copa_0402.png" style="zoom:25%;" /></a>
 
-### Fig 4-3
+### 図4-3
 <a href="assets/figures/copa_0403.png"><img src="assets/figures/copa_0403.png" style="zoom:25%;" /></a>
 
-### Fig 4-4
+### 図4-4
 <a href="assets/figures/copa_0404.png"><img src="assets/figures/copa_0404.png" style="zoom:25%;" /></a>
 
-### Fig 4-5
+### 図4-5
 <a href="assets/figures/copa_0405.png"><img src="assets/figures/copa_0405.png" style="zoom:25%;" /></a>
 
-### Fig 4-6
+### 図4-6
 <a href="assets/figures/copa_0406.png"><img src="assets/figures/copa_0406.png" style="zoom:25%;" /></a>
 
-### Fig 4-7
+### 図4-7
 <a href="assets/figures/copa_0407.png"><img src="assets/figures/copa_0407.png" style="zoom:25%;" /></a>
 
-### Fig 4-8
+### 図4-8
 <a href="assets/figures/copa_0408.png"><img src="assets/figures/copa_0408.png" style="zoom:25%;" /></a>
 
-### Fig 4-9
+### 図4-9
 <a href="assets/figures/copa_0409.png"><img src="assets/figures/copa_0409.png" style="zoom:25%;" /></a>
 
 <a href="#toc">^ contents</a>
@@ -189,31 +189,31 @@
 <a name="chap05"></a>
 
 ## Chapter 5
-### Fig 5-1
+### 図5-1
 <a href="assets/figures/copa_0501.png"><img src="assets/figures/copa_0501.png" style="zoom:25%;" /></a>
 
-### Fig 5-2
+### 図5-2
 <a href="assets/figures/copa_0502.png"><img src="assets/figures/copa_0502.png" style="zoom:25%;" /></a>
 
-### Fig 5-3
+### 図5-3
 <a href="assets/figures/copa_0503.png"><img src="assets/figures/copa_0503.png" style="zoom:25%;" /></a>
 
-### Fig 5-4
+### 図5-4
 <a href="assets/figures/copa_0504.png"><img src="assets/figures/copa_0504.png" style="zoom:25%;" /></a>
 
-### Fig 5-5
+### 図5-5
 <a href="assets/figures/copa_0505.png"><img src="assets/figures/copa_0505.png" style="zoom:25%;" /></a>
 
-### Fig 5-6
+### 図5-6
 <a href="assets/figures/copa_0506.png"><img src="assets/figures/copa_0506.png" style="zoom:25%;" /></a>
 
-### Fig 5-7
+### 図5-7
 <a href="assets/figures/copa_0507.png"><img src="assets/figures/copa_0507.png" style="zoom:25%;" /></a>
 
-### Fig 5-8
+### 図5-8
 <a href="assets/figures/copa_0508.png"><img src="assets/figures/copa_0508.png" style="zoom:25%;" /></a>
 
-### Fig 5-9
+### 図5-9
 <a href="assets/figures/copa_0509.png"><img src="assets/figures/copa_0509.png" style="zoom:25%;" /></a>
 
 <a href="#toc">^ contents</a>
@@ -221,55 +221,55 @@
 <a name="chap06"></a>
 
 ## Chapter 6
-### Fig 6-1
+### 図6-1
 <a href="assets/figures/copa_0601.png"><img src="assets/figures/copa_0601.png" style="zoom:25%;" /></a>
 
-### Fig 6-2
+### 図6-2
 <a href="assets/figures/copa_0602.png"><img src="assets/figures/copa_0602.png" style="zoom:25%;" /></a>
 
-### Fig 6-3
+### 図6-3
 <a href="assets/figures/copa_0603.png"><img src="assets/figures/copa_0603.png" style="zoom:25%;" /></a>
 
-### Fig 6-4
+### 図6-4
 <a href="assets/figures/copa_0604.png"><img src="assets/figures/copa_0604.png" style="zoom:25%;" /></a>
 
-### Fig 6-5
+### 図6-5
 <a href="assets/figures/copa_0605.png"><img src="assets/figures/copa_0605.png" style="zoom:25%;" /></a>
 
-### Fig 6-6
+### 図6-6
 <a href="assets/figures/copa_0606.png"><img src="assets/figures/copa_0606.png" style="zoom:25%;" /></a>
 
-### Fig 6-7
+### 図6-7
 <a href="assets/figures/copa_0607.png"><img src="assets/figures/copa_0607.png" style="zoom:25%;" /></a>
 
-### Fig 6-8
+### 図6-8
 <a href="assets/figures/copa_0608.png"><img src="assets/figures/copa_0608.png" style="zoom:25%;" /></a>
 
-### Fig 6-9
+### 図6-9
 <a href="assets/figures/copa_0609.png"><img src="assets/figures/copa_0609.png" style="zoom:25%;" /></a>
 
-### Fig 6-10
+### 図6-10
 <a href="assets/figures/copa_0610.png"><img src="assets/figures/copa_0610.png" style="zoom:25%;" /></a>
 
-### Fig 6-11
+### 図6-11
 <a href="assets/figures/copa_0611.png"><img src="assets/figures/copa_0611.png" style="zoom:25%;" /></a>
 
-### Fig 6-12
+### 図6-12
 <a href="assets/figures/copa_0612.png"><img src="assets/figures/copa_0612.png" style="zoom:25%;" /></a>
 
-### Fig 6-13
+### 図6-13
 <a href="assets/figures/copa_0613.png"><img src="assets/figures/copa_0613.png" style="zoom:25%;" /></a>
 
-### Fig 6-14
+### 図6-14
 <a href="assets/figures/copa_0614.png"><img src="assets/figures/copa_0614.png" style="zoom:25%;" /></a>
 
-### Fig 6-15
+### 図6-15
 <a href="assets/figures/copa_0615.png"><img src="assets/figures/copa_0615.png" style="zoom:25%;" /></a>
 
-### Fig 6-16
+### 図6-16
 <a href="assets/figures/copa_0616.png"><img src="assets/figures/copa_0616.png" style="zoom:25%;" /></a>
 
-### Fig 6-17
+### 図6-17
 <a href="assets/figures/copa_0617.png"><img src="assets/figures/copa_0617.png" style="zoom:25%;" /></a>
 
 <a href="#toc">^ contents</a>
@@ -277,7 +277,7 @@
 <a name="chap07"></a>
 
 ## Chapter 7
-### Fig 7-1
+### 図7-1
 <a href="assets/figures/copa_0701.png"><img src="assets/figures/copa_0701.png" style="zoom:25%;" /></a>
 
 <a href="#toc">^ contents</a>
@@ -285,10 +285,10 @@
 <a name="chap08"></a>
 
 ## Chapter 8
-### Fig 8-1
+### 図8-1
 <a href="assets/figures/copa_0801.png"><img src="assets/figures/copa_0801.png" style="zoom:25%;" /></a>
 
-### Fig 8-2
+### 図8-2
 <a href="assets/figures/copa_0802.png"><img src="assets/figures/copa_0802.png" style="zoom:25%;" /></a>
 
 <a href="#toc">^ contents</a>
@@ -296,7 +296,7 @@
 <a name="chap09"></a>
 
 ## Chapter 9
-### Fig 9-1
+### 図9-1
 <a href="assets/figures/copa_0901.png"><img src="assets/figures/copa_0901.png" style="zoom:25%;" /></a>
 
 <a href="#toc">^ contents</a>
@@ -304,19 +304,19 @@
 <a name="chap10"></a>
 
 ## Chapter 10
-### Fig 10-1
+### 図10-1
 <a href="assets/figures/copa_1001.png"><img src="assets/figures/copa_1001.png" style="zoom:25%;" /></a>
 
-### Fig 10-2
+### 図10-2
 <a href="assets/figures/copa_1002.png"><img src="assets/figures/copa_1002.png" style="zoom:25%;" /></a>
 
-### Fig 10-3
+### 図10-3
 <a href="assets/figures/copa_1003.png"><img src="assets/figures/copa_1003.png" style="zoom:25%;" /></a>
 
-### Fig 10-4
+### 図10-4
 <a href="assets/figures/copa_1004.png"><img src="assets/figures/copa_1004.png" style="zoom:25%;" /></a>
 
-### Fig 10-5
+### 図10-5
 <a href="assets/figures/copa_1005.png"><img src="assets/figures/copa_1005.png" style="zoom:25%;" /></a>
 
 <a href="#toc">^ contents</a>
@@ -324,10 +324,10 @@
 <a name="chap11"></a>
 
 ## Chapter 11
-### Fig 11-1
+### 図11-1
 <a href="assets/figures/copa_1101.png"><img src="assets/figures/copa_1101.png" style="zoom:25%;" /></a>
 
-### Fig 11-2
+### 図11-2
 <a href="assets/figures/copa_1102.png"><img src="assets/figures/copa_1102.png" style="zoom:25%;" /></a>
 
 <a href="#toc">^ contents</a>
@@ -335,31 +335,31 @@
 <a name="chap12"></a>
 
 ## Chapter 12
-### Fig 12-1
+### 図12-1
 <a href="assets/figures/copa_1201.png"><img src="assets/figures/copa_1201.png" style="zoom:25%;" /></a>
 
-### Fig 12-2
+### 図12-2
 <a href="assets/figures/copa_1202.png"><img src="assets/figures/copa_1202.png" style="zoom:25%;" /></a>
 
-### Fig 12-3
+### 図12-3
 [陜zview text version](/assets/ADR-example-decision-making.md)
 
 <a href="assets/figures/copa_1203.png"><img src="assets/figures/copa_1203.png" style="zoom:25%;" /></a>
 
-### Fig 12-4
+### 図12-4
 [陜zview text version](/assets/ADR-example-decision-making.md)
 
 <a href="assets/figures/copa_1204.png"><img src="assets/figures/copa_1204.png" style="zoom:25%;" /></a>
 
-### Fig 12-5
+### 図12-5
 [陜zview text version](/assets/ADR-example.md)
 
 <a href="assets/figures/copa_1205.png"><img src="assets/figures/copa_1205.png" style="zoom:25%;" /></a>
 
-### Fig 12-6
+### 図12-6
 <a href="assets/figures/copa_1206.png"><img src="assets/figures/copa_1206.png" style="zoom:25%;" /></a>
 
-### Fig 12-7
+### 図12-7
 <a href="assets/figures/copa_1207.png"><img src="assets/figures/copa_1207.png" style="zoom:25%;" /></a>
 
 <a href="#toc">^ contents</a>
@@ -367,10 +367,10 @@
 <a name="chap13"></a>
 
 ## Chapter 13
-### Fig 13-1
+### 図13-1
 <a href="assets/figures/copa_1301.png"><img src="assets/figures/copa_1301.png" style="zoom:10%;" /></a>
 
-### Fig 13-2
+### 図13-2
 <a href="assets/figures/copa_1302.png"><img src="assets/figures/copa_1302.png" style="zoom:25%;" /></a>
 
 <a href="#toc">^ contents</a>
@@ -378,7 +378,7 @@
 <a name="chap14"></a>
 
 ## Chapter 14
-### Fig 14-1
+### 図14-1
 <a href="assets/figures/copa_1401.png"><img src="assets/figures/copa_1401.png" style="zoom:25%;" /></a>
 
 <a href="#toc">^ contents</a>
@@ -386,16 +386,16 @@
 <a name="chap15"></a>
 
 ## Chapter 15
-### Fig 15-1
+### 図15-1
 <a href="assets/figures/copa_1501.png"><img src="assets/figures/copa_1501.png" style="zoom:25%;" /></a>
 
-### Fig 15-2
+### 図15-2
 <a href="assets/figures/copa_1502.png"><img src="assets/figures/copa_1502.png" style="zoom:25%;" /></a>
 
-### Fig 15-3
+### 図15-3
 <a href="assets/figures/copa_1503.png"><img src="assets/figures/copa_1503.png" style="zoom:25%;" /></a>
 
-### Fig 15-4
+### 図15-4
 <a href="assets/figures/copa_1504.png"><img src="assets/figures/copa_1504.png" style="zoom:25%;" /></a>
 
 <a href="#toc">^ コンテンツ</a>
