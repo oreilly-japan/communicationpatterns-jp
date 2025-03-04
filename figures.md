@@ -15,20 +15,20 @@
 - <a href="#chap05">5章</a>
 - <a href="#chap06">6章</a>
 
-### Part II
-- <a href="#chap07">Chapter 7</a>
-- <a href="#chap08">Chapter 8</a>
-- <a href="#chap09">Chapter 9</a>
+### 第II部
+- <a href="#chap07">7章</a>
+- <a href="#chap08">8章</a>
+- <a href="#chap09">9章</a>
 
-### Part III
-- <a href="#chap10">Chapter 10</a>
-- <a href="#chap11">Chapter 11</a>
-- <a href="#chap12">Chapter 12</a>
+### 第III部
+- <a href="#chap10">10章</a>
+- <a href="#chap11">11章</a>
+- <a href="#chap12">12章</a>
 
-### Part IV
-- <a href="#chap13">Chapter 13</a>
-- <a href="#chap14">Chapter 14</a>
-- <a href="#chap15">Chapter 15</a>
+### 第IV部
+- <a href="#chap13">13章</a>
+- <a href="#chap14">14章</a>
+- <a href="#chap15">15章</a>
 
 <a name="chap01"></a>
 
@@ -36,62 +36,62 @@
 
 <a name="fig1-1"></a>
 
-### 図 1-1
+### 図1-1
 <a href="assets/figures/copa_0101.png"><img src="assets/figures/copa_0101.png" style="zoom:25%;" /></a>
 
 <a name="fig1-2"></a>
 
-### Fig 1-2
+### 図1-2
 <a href="assets/figures/copa_0102.png"><img src="assets/figures/copa_0102.png" style="zoom:25%;" /></a>
 
 <a name="fig1-3"></a>
 
-### Fig 1-3
+### 図1-3
 <a href="assets/figures/copa_0103.png"><img src="assets/figures/copa_0103.png" style="zoom:25%;" /></a>
 
 <a name="fig1-4"></a>
 
-### Fig 1-4
+### 図1-4
 <a href="assets/figures/copa_0104.png"><img src="assets/figures/copa_0104.png" style="zoom:25%;" /></a>
 
 <a name="fig1-5"></a>
 
-### Fig 1-5
+### 図1-5
 <a href="assets/figures/copa_0105.png"><img src="assets/figures/copa_0105.png" style="zoom:25%;" /></a>
 
 <a name="fig1-6"></a>
 
-### Fig 1-6
+### 図1-6
 <a href="assets/figures/copa_0106.png"><img src="assets/figures/copa_0106.png" style="zoom:25%;" /></a>
 
 <a name="fig1-7"></a>
 
-### Fig 1-7
+### 図1-7
 <a href="assets/figures/copa_0107.png"><img src="assets/figures/copa_0107.png" style="zoom:25%;" /></a>
 
 <a name="fig1-8"></a>
 
-### Fig 1-8
+### 図1-8
 <a href="assets/figures/copa_0108.png"><img src="assets/figures/copa_0108.png" style="zoom:25%;" /></a>
 
 <a name="fig1-9"></a>
 
-### Fig 1-9
+### 図1-9
 <a href="assets/figures/copa_0109.png"><img src="assets/figures/copa_0109.png" style="zoom:25%;" /></a>
 
 <a name="fig1-10"></a>
 
-### Fig 1-10
+### 図1-10
 <a href="assets/figures/copa_0110.png"><img src="assets/figures/copa_0110.png" style="zoom:25%;" /></a>
 
 <a name="fig1-11"></a>
 
-### Fig 1-11
+### 図1-11
 <a href="assets/figures/copa_0111.png"><img src="assets/figures/copa_0111.png" style="zoom:25%;" /></a>
 
 <a name="fig1-12"></a>
 
-### Fig 1-12
+### 図1-12
 <a href="assets/figures/copa_0112.png"><img src="assets/figures/copa_0112.png" style="zoom:25%;" /></a>
 
 <a href="#toc">^ contents</a>
