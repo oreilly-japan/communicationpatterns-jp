@@ -19,8 +19,8 @@ table, tr, td, th {
   display: table;
 }
 .contact div span img {
-  height: 0.65em;
-  width: auto; /* c‰¡”ä‚ğˆÛ */
+  transform: scale(0.5);
+  transform-origin: left center; /* k¬‚ÌŠî€“_‚ğ’²® */
   vertical-align: middle;
   display: table-cell;
   margin-right: 5px;
