@@ -167,7 +167,7 @@
 <a href="assets/figures/copa_0403.png"><img src="assets/figures/copa_0403.png" width="400" /></a>
 
 ### 図4-4
-<a href="assets/figures/copa_0404.png"><img src="assets/figures/copa_0404.png" width="150" /></a>
+<a href="assets/figures/copa_0404.png"><img src="assets/figures/copa_0404.png" width="200" /></a>
 
 ### 図4-5
 <a href="assets/figures/copa_0405.png"><img src="assets/figures/copa_0405.png" width="400" /></a>
@@ -360,7 +360,7 @@
 <a href="assets/figures/copa_1206.png"><img src="assets/figures/copa_1206.png" width="400" /></a>
 
 ### 図12-7
-<a href="assets/figures/copa_1207.png"><img src="assets/figures/copa_1207.png" width="400" /></a>
+<a href="assets/figures/copa_1207.png"><img src="assets/figures/copa_1207.png" width="300" /></a>
 
 <a href="#toc">^ コンテンツ</a>
 
