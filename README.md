@@ -19,4 +19,4 @@
 
 <!-- https://github.com/oreilly-japan/designing-ml-systems-ja/wiki/errata -->
 
-<!-- 本ページに掲載されていない誤植など間違いを見つけた方は、[japan＠oreilly.co.jp](<mailto:japan＠oreilly.co.jp>)までお知らせください。 -->
+本書についてのお問い合わせは、[japan＠oreilly.co.jp](<mailto:japan＠oreilly.co.jp>)までお知らせください。
