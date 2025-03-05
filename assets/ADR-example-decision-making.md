@@ -76,6 +76,6 @@ Polyglot Mediaシステムは現在、主にサーバーレス関数からなる
 - _マーク_：応答性は顧客の苦情に対応するため、最優先事項であるべきです。
 - _リビー_：完全なマイクロサービスの場合、サービス間でデータストアを共有しない必要があります。データをこのように分割するには、かなりの労力が必要でしょう。
 
-ライセンス：[CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/)でライセンスされた[ADR-044 Use an Event-Driven Distributed Architecture](https://communicationpatternsbook.com/assets/ADR-example-decision-making.htmll)を翻訳したものです。
+ライセンス：[CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/)でライセンスされた[ADR-044 Use an Event-Driven Distributed Architecture](https://communicationpatternsbook.com/assets/ADR-example-decision-making.html)を翻訳したものです。
 
 [> Home](https://github.com/oreilly-japan/communicationpatterns-jp) | [>特典コンテンツ](https://github.com/oreilly-japan/communicationpatterns-jp/blob/master/freebies.md)
