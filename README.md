@@ -1,4 +1,4 @@
-# Communication Patterns
+# 開発者とアーキテクトのためのコミュニケーションガイド
 
 ---
 
