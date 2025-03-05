@@ -297,7 +297,7 @@
 
 ## 9章
 ### 図9-1
-<a href="assets/figures/copa_0901.png"><img src="assets/figures/copa_0901.png" width="400" /></a>
+<a href="assets/figures/copa_0901.png"><img src="assets/figures/copa_0901.png" width="200" /></a>
 
 <a href="#toc">^ コンテンツ</a>
 
