@@ -42,7 +42,7 @@
 <a name="fig1-2"></a>
 
 ### 図1-2
-<a href="assets/figures/copa_0102.png"><img src="assets/figures/copa_0102.png" width="300" /></a>
+<a href="assets/figures/copa_0102.png"><img src="assets/figures/copa_0102.png" width="400" /></a>
 
 <a name="fig1-3"></a>
 
