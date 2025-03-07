@@ -2,7 +2,7 @@
 
 ---
 
-![表紙](assets/compatcover.png)
+![表紙](assets/compatcover_j.jpg)
 
 ---
 
