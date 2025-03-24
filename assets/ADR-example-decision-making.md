@@ -1,6 +1,6 @@
 [> Home](https://github.com/oreilly-japan/communicationpatterns-jp) | [>特典コンテンツ](https://github.com/oreilly-japan/communicationpatterns-jp/blob/master/freebies.md)
 
-# ADR-044 イベント駆動型の分散アーキテクチャの採用
+# ADR-044 イベント駆動型分散アーキテクチャの使用
 
 ## ステータス
 決定済み、2023-10-04  
